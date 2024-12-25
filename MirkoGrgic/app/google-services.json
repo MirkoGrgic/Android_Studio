@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677685516901",
+    "project_id": "orwmalv8-496ee",
+    "storage_bucket": "orwmalv8-496ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677685516901:android:b3a6ad054e73ea3e6cc48c",
+        "android_client_info": {
+          "package_name": "hr.ferit.cookingapp.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlbbe08C88WeLJBTJzStx-vAuB6-3Sj-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
